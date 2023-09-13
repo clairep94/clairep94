@@ -18,6 +18,8 @@ I aim to leverage:
 
 Feel free to shoot me a message to say hi and hope you can join me on this new adventure! 
 
+<br />
+
 #### [LinkedIn](https://www.linkedin.com/pengclaire)      |      [Instagram](https://www.instagram.com/claiire.png/?hl=en)   
 
 <br />
