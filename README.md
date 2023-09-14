@@ -6,7 +6,7 @@ I am a training full-stack developer and current scholarship student at Maker's 
 
 `Now I am on my coding journey!` <!-- started my coding journey in march of 2023... always loved puzzles, analytical mind. Started python and have fallen in love! -->
 
-At my core, I am a **maker**, whether it is a beautiful garment, or a clever digital product. 
+<!-- At my core, I am a **maker**, whether it is a beautiful garment, or a clever digital product. -->
 
 I aim to leverage:
 
