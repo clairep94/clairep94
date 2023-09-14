@@ -16,9 +16,8 @@ I aim to leverage:
 - empathy as both a team member and team lead
 
 
-Feel free to shoot me a message to say hi and hope you can join me on this new adventure! 
+Feel free to shoot me a message to collaborate or just to say hi! 
 
-<br />
 
 #### [LinkedIn](https://www.linkedin.com/pengclaire)      |      [Instagram](https://www.instagram.com/claiire.png/?hl=en)   
 
