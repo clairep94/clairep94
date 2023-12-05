@@ -7,7 +7,7 @@ I am a training full-stack developer and current scholarship student at Maker's 
 Feel free to shoot me a message to collaborate or just to say hi! 
 
 
-#### [LinkedIn](https://www.linkedin.com/in/pengclaire) 
+#### [LinkedIn](https://www.linkedin.com/in/pengclaire) [CV](https://drive.google.com/file/d/1H43N-V9y3_QIR6cUI-hjhxApYzSaIydv/view?usp=drive_link)
 
 <br />
 
