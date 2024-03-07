@@ -1,8 +1,8 @@
 # 👾 Claire Peng 
 
-**`Digital Maker (Developer/Designer/Current Student at Maker's Academy)`**
+**`Creative Developer - React.js, Node.js, Express, Python, Flask, MongoDB, postgreSQL`**
 
-I am a training full-stack developer and current scholarship student at Maker's Academy. Previous to starting my coding journey, I was a fashion designer and have designed for luxury menswear and womenswear brands such as `Burberry`, `Celine`, and `A-Cold-Wall`. In my last role as `Senior Designer` of `Dom Rebel`, I lead a team of assistant designers, in-house artists, and freelancers to produce collections of over 60 products per season, such that the brand has since gained `Selfridges` and `Harrods` amongst their stockists since my involvement. 
+I am a full-stack developer, codebar scholarship awardee, and graduate from Maker's Academy. Previous to starting my coding journey, I was a fashion designer and have designed for luxury menswear and womenswear brands such as `Burberry`, `Celine`, and `A-Cold-Wall`. In my last role as `Senior Designer` of `Dom Rebel`, I lead a team of assistant designers, in-house artists, and freelancers to produce collections of over 60 products per season, such that the brand has since gained `Selfridges` and `Harrods` amongst their stockists since my involvement. 
 
 Feel free to shoot me a message to collaborate or just to say hi! 
 
