@@ -1,8 +1,10 @@
 # 👾 Claire Peng 
 
-**`Creative Developer - React.js, Node.js, Express, Python, Flask, MongoDB, postgreSQL`**
+**`Creative Developer - React.js, TailwindCSS, Node.js, Express, Python, Flask, MongoDB, postgreSQL`**
 
 I am a full-stack developer, codebar scholarship awardee, and graduate from Maker's Academy. Previous to starting my coding journey, I was a fashion designer and have designed for luxury menswear and womenswear brands such as `Burberry`, `Celine`, and `A-Cold-Wall`. In my last role as `Senior Designer` of `Dom Rebel`, I lead a team of assistant designers, in-house artists, and freelancers to produce collections of over 60 products per season, such that the brand has since gained `Selfridges` and `Harrods` amongst their stockists since my involvement. 
+
+I can develop test-driven fullstack webapps with the MERN stack or Python/Flask. I am especially interested in creative UI development and highly product-oriented. As a trained designer, I can take full ownership of projects from wireframe design to final product.
 
 Feel free to shoot me a message to collaborate or just to say hi! 
 
