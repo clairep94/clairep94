@@ -9,7 +9,7 @@ I can develop test-driven fullstack webapps with the MERN stack or Python/Flask.
 Feel free to shoot me a message to collaborate or just to say hi! 
 
 
-#### [LinkedIn](https://www.linkedin.com/in/pengclaire) | [CV](https://drive.google.com/file/d/1H43N-V9y3_QIR6cUI-hjhxApYzSaIydv/view?usp=drive_link)
+#### [LinkedIn](https://www.linkedin.com/in/pengclaire) | [CV](https://docs.google.com/document/d/1B8zYxX885AtOrHWIm3xqwomHtcX40Lzu6H8yuCL-jgw/edit?usp=sharing)
 
 <br />
 
