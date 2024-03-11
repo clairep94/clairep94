@@ -9,13 +9,7 @@ I am a full-stack developer, codebar scholarship awardee, and graduate from Make
 <!--In my last role as `Senior Designer` of `Dom Rebel`, I lead a team of assistant designers, in-house artists, and freelancers to produce collections of over 60 products per season, such that the brand has since gained `Selfridges` and `Harrods` amongst their stockists since my involvement. -->
 I can develop test-driven fullstack webapps with the MERN stack or Python/Flask. I am especially interested in creative UI development and highly product-oriented. As a trained designer, I can take full ownership of projects from wireframe design to final product.
 
-**👩‍💻 Currently Working On**:<br>
-| Name                        | Description                   | Tech/tools                  |
-| ----------------------------| ----------------------------- | --------------------------- |
-| [**OppoGames**](https://github.com/clairep94/oppo-games) | A fullstack mini-games site using the MERN Stack, where users can register, play and chat in realtime with friends. | MongoDB, Express, React, Node.js, TailwindCSS, socket.io |
-| [**Acebook-ReDesigned**](https://github.com/clairep94/acebook) | A re-skin of [Acebook](https://github.com/clairep94/acebook-messenger) to reflect Facebook's current UI with high fidelity & with best frontend practices | MongoDB, Express, React, Node.js, TailwindCSS, socket.io |
-
-**🚀 Projects**:<br>
+## 🚀 Projects:
 
 | Name                        | Description                   | Tech/tools                  |
 | ----------------------------| ----------------------------- | --------------------------- |
@@ -23,6 +17,11 @@ I can develop test-driven fullstack webapps with the MERN stack or Python/Flask.
 | [**Acebook**](https://github.com/clairep94/acebook-messenger)| A full-stack Facebook clone created from a legacy starter codebase using the MERN Stack. Demonstrates Facebook’s main functionalities including: Messaging, Newsfeed, Likes, Comments, User Profiles, Real-time Search, and Friends. | MongoDB, Express, React, Node.js, TailwindCSS, socket.io |
 | [**Password Cracker**](https://github.com/clairep94/fauxstar_password_cracker) | A Python CLI app to demonstrate common hacking tactics including Dictionary Attack, Hybrid Attack, Hashcat Mask, and Phishing | Python, Tkinter |
 
+## 👩‍💻 Working On:
+| Name                        | Description                   | Tech/tools                  |
+| ----------------------------| ----------------------------- | --------------------------- |
+| [**OppoGames**](https://github.com/clairep94/oppo-games) | A fullstack mini-games site using the MERN Stack, where users can register, play and chat in realtime with friends. | MongoDB, Express, React, Node.js, TailwindCSS, socket.io |
+| [**Acebook-ReDesigned**](https://github.com/clairep94/acebook) | A re-skin of [Acebook](https://github.com/clairep94/acebook-messenger) to reflect Facebook's current UI with high fidelity & with best frontend practices | MongoDB, Express, React, Node.js, TailwindCSS, socket.io |
 
 
 Feel free to shoot me a message to collaborate or just to say hi! 
