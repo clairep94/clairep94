@@ -9,6 +9,15 @@ I am a full-stack developer, codebar scholarship awardee, and graduate from Make
 <!--In my last role as `Senior Designer` of `Dom Rebel`, I lead a team of assistant designers, in-house artists, and freelancers to produce collections of over 60 products per season, such that the brand has since gained `Selfridges` and `Harrods` amongst their stockists since my involvement. -->
 I can develop test-driven fullstack webapps with the MERN stack or Python/Flask. I am especially interested in creative UI development and highly product-oriented. As a trained designer, I can take full ownership of projects from wireframe design to final product.
 
+Feel free to shoot me a message to collaborate or just to say hi! 
+
+
+#### [LinkedIn](https://www.linkedin.com/in/pengclaire) | [CV](https://docs.google.com/document/d/1B8zYxX885AtOrHWIm3xqwomHtcX40Lzu6H8yuCL-jgw/edit?usp=sharing)
+
+
+---
+
+
 ## 🚀 Projects:
 
 | Name                        | Description                   | Tech/tools                  |
@@ -24,12 +33,6 @@ I can develop test-driven fullstack webapps with the MERN stack or Python/Flask.
 | [**Acebook-ReDesigned**](https://github.com/clairep94/acebook) | A re-skin of [Acebook](https://github.com/clairep94/acebook-messenger) to reflect Facebook's current UI with high fidelity & with best frontend practices | MongoDB, Express, React, Node.js, TailwindCSS, socket.io |
 
 
-Feel free to shoot me a message to collaborate or just to say hi! 
-
-
-#### [LinkedIn](https://www.linkedin.com/in/pengclaire) | [CV](https://docs.google.com/document/d/1B8zYxX885AtOrHWIm3xqwomHtcX40Lzu6H8yuCL-jgw/edit?usp=sharing)
-
-<br />
 
 ---
 ### 🧰 Current Languages and Tools
