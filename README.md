@@ -1,13 +1,12 @@
 # 👾 Claire Peng 
 
-**`Creative Developer & Designer - React.js, TailwindCSS, Node.js, Express, Python, Flask, MongoDB, postgreSQL`**
+#### 💼 Junior Frontend [@Just Eat](https://www.github.com/justeat)
 
-
+**`Creative Developer - React.js, Vue.js, TailwindCSS, Node.js, Express, Python, Flask, MongoDB, postgreSQL`**
 
 I am a full-stack developer, codebar scholarship awardee, and graduate from Maker's Academy. Previous to starting my coding journey, I was a fashion designer and have designed for luxury menswear and womenswear brands such as `Burberry`, `Celine`, and `A-Cold-Wall`. 
 
-<!--In my last role as `Senior Designer` of `Dom Rebel`, I lead a team of assistant designers, in-house artists, and freelancers to produce collections of over 60 products per season, such that the brand has since gained `Selfridges` and `Harrods` amongst their stockists since my involvement. -->
-I can develop test-driven fullstack webapps with the MERN stack or Python/Flask. I am especially interested in creative UI development and highly product-oriented. As a trained designer, I can take full ownership of projects from wireframe design to final product.
+I am especially interested in creative UI development and am highly product-oriented. As a trained designer, I can take full ownership of projects from wireframe design to final product.
 
 Feel free to shoot me a message to collaborate or just to say hi! 
 
@@ -43,13 +42,9 @@ Feel free to shoot me a message to collaborate or just to say hi!
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/illustrator/illustrator-plain.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-plain.svg" />
