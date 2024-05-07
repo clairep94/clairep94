@@ -1,6 +1,6 @@
 # 👾 Claire Peng 
 
-#### 💼 Junior Frontend [@Just Eat](https://www.github.com/justeat)
+#### 💼 Frontend [@Just Eat Takeaway](https://github.com/justeattakeaway)
 
 **`Creative Developer - React.js, Vue.js, TailwindCSS, Node.js, Express, Python, Flask, MongoDB, postgreSQL`**
 
