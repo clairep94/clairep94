@@ -1,17 +1,17 @@
 # 👾 Claire Peng 
 
-#### 💼 Frontend [@Just Eat Takeaway](https://github.com/justeattakeaway)
+#### 💼 Software Developer [@Just Eat Takeaway](https://github.com/justeattakeaway)
 
-**`Creative Developer - React.js, Vue.js, TailwindCSS, Node.js, Express, Python, Flask, MongoDB, postgreSQL`**
+**`Creative Full-stack Developer - React.js, Vue.js, TailwindCSS, Node.js, Python, Golang`**
 
-I am a full-stack developer, codebar scholarship awardee, and graduate from Maker's Academy. Previous to starting my coding journey, I was a fashion designer and have designed for luxury menswear and womenswear brands such as `Burberry`, `Celine`, and `A-Cold-Wall`. 
+I am a frontend-leaning full-stack developer, codebar scholarship awardee, and graduate from Maker's Academy. Previous to starting my coding journey, I was a fashion designer and have designed for luxury menswear and womenswear brands such as `Burberry`, `Celine`, and `A-Cold-Wall`. 
 
 I am especially interested in creative UI development and am highly product-oriented. As a trained designer, I can take full ownership of projects from wireframe design to final product.
 
 Feel free to shoot me a message to collaborate or just to say hi! 
 
 
-#### [LinkedIn](https://www.linkedin.com/in/pengclaire) | [CV](https://docs.google.com/document/d/1B8zYxX885AtOrHWIm3xqwomHtcX40Lzu6H8yuCL-jgw/edit?usp=sharing)
+#### [LinkedIn](https://www.linkedin.com/in/pengclaire)
 
 
 ---
@@ -38,6 +38,7 @@ Feel free to shoot me a message to collaborate or just to say hi!
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -58,7 +59,6 @@ Feel free to shoot me a message to collaborate or just to say hi!
 ---
 ### 🧠 Learning
 
-<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" />
 
